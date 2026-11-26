@@ -96,4 +96,5 @@ OUTPUT:
 
 
 RESULT:
+
 Thus, the given mechanical component was successfully drawn using appropriate drawing instruments and standard engineering drawing conventions. The Top, Front, Sectional, and Isometric Views accurately represent the component's shape, dimensions, and internal features.
